@@ -1,0 +1,39 @@
+{
+    "places": [
+      { 
+        "id": 1, 
+        "name": "Hong Kong", 
+        "visa_required": false 
+      },
+      { 
+        "id": 2, 
+        "name": "Tokyo", 
+        "visa_required": false 
+      },
+      { 
+        "id": 3, 
+        "name": "Shanghai", 
+        "visa_required": true
+      }
+    ],
+    "interests": [
+        {
+            "id": 1,
+            "placeId": 1,
+            "name": "Tian Tan Buddha (Big Buddha)",
+            "description": "The Big Buddha, is a large bronze statue of Buddha Shakyamuni, completed in 1993, and located at Ngong Ping, Lantau Island, in Hong Kong. The statue is sited near Po Lin Monastery and symbolises the harmonious relationship between man and nature, people and faith. It is a major centre of Buddhism in Hong Kong, and is also a popular tourist attraction."
+        },
+        {
+            "id": 2,
+            "placeId": 2,
+            "name": "Tokyo Skytree",
+            "description": "Tokyo Skytree (東京スカイツリー Tōkyō Sukaitsurī) is a broadcasting, restaurant,[3] and observation tower in Sumida, Tokyo, Japan. It became the tallest structure in Japan in 2010[4] and reached its full height of 634.0 metres (2,080 ft) in March 2011, making it the tallest tower in the world, displacing the Canton Tower,[5][6] and the second tallest structure in the world after the Burj Khalifa (829.8 m/2,722 ft)."
+        },
+        {
+            "id": 3,
+            "placeId": 3,
+            "name": "The Bund",
+            "description": "The Bund or Waitan (Chinese: 外滩; pinyin: Wàitān, Shanghainese: nga3thae1, literally: ('Outer Beach') is a waterfront area in central Shanghai. The area centers on a section of Zhongshan Road (East No.1 Zhongshan Road) within the former Shanghai International Settlement, which runs along the western bank of the Huangpu River in the eastern part of Huangpu District. The area along the river faces the modern skyscrapers of Lujiazui in the Pudong District. The Bund usually refers to the buildings and wharves on this section of the road, as well as some adjacent areas. It is one of the most famous tourist destinations in Shanghai"
+        }
+    ]
+  }
